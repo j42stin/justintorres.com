@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# 👋 hi
 
-You can use the [editor on GitHub](https://github.com/torresio/torres.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Justin! My interests include staying physically active, pondering the reason(s) why, cooking, and traversing the internet as a developer for 20+ years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*This website is under construction. Check back later!*
 
-### Markdown
+#### 📧 Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+info (at) justintorres (dot) com
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### 🔨 Skillset
 
-- Bulleted
-- List
+In order of confidence: `HTML`, `CSS`, `JAVASCRIPT`, `WORDPRESS`, `JQUERY`, `APACHE`, `NGINX`, `MYSQL`, `UI/UX`, `REACT`, `PYTHON`.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+#### 🏢 Resume
 
-[Link](url) and ![Image](src)
-```
+(2009 &rarr; Today) Chief Developer @ Adviatech
+(2009 &rarr; 2011) Senior Developer @ Hivelocity Hosting
+(2008 &rarr; 2009) Webmaster @ William Alan Corporation
+(2004 &rarr; 2008) Crooms Academy of Information Technology
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/torresio/torres.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> Somewhere, something incredible is waiting to be known.
+*― Carl Sagan*
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*2022 justintorres.com, content licensed under CC-BY-4.0*
