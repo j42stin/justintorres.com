@@ -8,11 +8,9 @@ I'm Justin! My interests include staying physically active, pondering the reason
 
 info (at) justintorres (dot) com
 
-
 #### 🔨 Skillset
 
 In order of confidence: `HTML`, `CSS`, `JAVASCRIPT`, `WORDPRESS`, `JQUERY`, `APACHE`, `NGINX`, `MYSQL`, `UI/UX`, `REACT`, `PYTHON`.
-
 
 #### 🏢 Resume
 
@@ -21,12 +19,7 @@ In order of confidence: `HTML`, `CSS`, `JAVASCRIPT`, `WORDPRESS`, `JQUERY`, `APA
 (2008 &rarr; 2009) Webmaster @ William Alan Corporation
 (2004 &rarr; 2008) Crooms Academy of Information Technology
 
-
----
-
 > Somewhere, something incredible is waiting to be known.
 *― Carl Sagan*
-
----
 
 *2022 justintorres.com, content licensed under CC-BY-4.0*
