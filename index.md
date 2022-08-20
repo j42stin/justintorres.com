@@ -5,11 +5,6 @@ My interests include staying physically active, pondering the reason(s) why, coo
 
 *This website is under construction. Check back later!*
 
-## Contact
-
-https://wa.me/message/5EU3Z7UHXX3GJ1
-info (at) justintorres (dot) com
-
 ## Featured Work
 
 * [Begley Law Group](https://www.begleylawgroup.com/)
@@ -22,6 +17,11 @@ info (at) justintorres (dot) com
 * [Littman Krooks](https://www.littmankrooks.com/)
 * [Sommers Schwartz](https://www.sommerspc.com/)
 * [Steinberg Law Firm](https://www.steinberglawfirm.com/)
+
+## Contact
+
+* [WhatsApp](https://wa.me/message/5EU3Z7UHXX3GJ1)
+* [Email](mailto://me@justintorres.com)
 
 *2022 justintorres.com content licensed under CC-BY-4.0*
 
