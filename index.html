@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="description" content="Official website for Justin Torres">
@@ -8,9 +8,48 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link media="all" rel="stylesheet" href="assets/css/style.css" />
   <title>Justin Torres</title>
+  <style>
+  html, body {
+      margin: 0;
+      padding: 0;
+      line-height: 1.15;
+      font-family: monospace;
+      -webkit-text-size-adjust: 100%;
+  }
+  body h1 {
+      margin: 0;
+      color: rgb(66, 66, 238);
+      font-size: 3em;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      letter-spacing: -2px;
+  }
+  body a {
+      color: #4242ee;
+  }
+  .wrap {
+      margin: 0 1em;
+      max-width: 555px;
+  }
+  .portfolio a {
+      display: inline-block;
+      position: relative;
+      margin: 1em;
+      width: 300px;
+  }
+  .portfolio a img {
+      position: relative;
+      max-width: 100%;
+      transition: 500ms ease all;
+      filter: grayscale(1);
+      border: #4242ee 3px solid;
+  }
+  .portfolio a:hover img {
+      filter: grayscale(0);
+      z-index: 9;
+  }
+  </style>
 </head>
 <body>
-
   <div class="wrap">
     <div class="header">
       <h1>Justin Torres</h1>
@@ -35,5 +74,5 @@
     <p>“Somewhere, something incredible is waiting to be known.” <em>― Carl Sagan</em></p>
     <p><em>justintorres.com content licensed under CC-BY-4.0</em></p>
   </div>
-
-</body></html>	
+</body>
+</html>	
