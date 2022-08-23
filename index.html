@@ -12,12 +12,17 @@
   html, body {
       margin: 0;
       padding: 0;
-      line-height: 1.15;
+      color: #424242;
+      line-height: 1.5;
       font-family: monospace;
       -webkit-text-size-adjust: 100%;
+      background: #ffffff;
+  }
+  body{
+    padding: 2vw;
   }
   body h1 {
-      margin: 0;
+      margin: .25em 0;
       color: rgb(66, 66, 238);
       font-size: 3em;
       font-family: Georgia, 'Times New Roman', Times, serif;
@@ -30,6 +35,16 @@
       margin: 0 1em;
       max-width: 555px;
   }
+  .wrap blockquote {
+    margin: 1em 0;
+    padding: 0 0 0 2em;
+    border-left: #4242ee 5px solid;
+  }
+  .portfolio, 
+  .portfolio a,
+  .portfolio a img {
+    transition: 500ms ease all;
+  }
   .portfolio a {
       display: inline-block;
       position: relative;
@@ -39,7 +54,6 @@
   .portfolio a img {
       position: relative;
       max-width: 100%;
-      transition: 500ms ease all;
       filter: grayscale(1);
       border: #4242ee 3px solid;
   }
@@ -50,12 +64,17 @@
   </style>
 </head>
 <body>
+
   <div class="wrap">
     <div class="header">
       <h1>Justin Torres</h1>
-      <p>Hi, I'm Justin! I have been tinkering with information technology for over 20 years. My expertise is full-stack WordPress development but I'm curious to learn just about everything related to internet facing applications. This website is under construction but please take a look around and resume or CV available upond request. Thank you!</p>
-      <p>Hola, soy Justin! Utilizando tecnologías informáticas por más de 20 años. Mi focus es en desarrollos completos de WordPress pero tengo curiosidad por todo lo que tiene que ver con el de internet. Este sitio está en construcción pero por favor no dude en ponerse en contacto conmigo para mi cv. Muchas gracias!</p>
-      <p><a href="https://www.linkedin.com/in/justintorres/" target="_b" alt="LinkedIn" title="LinkedIn">LinkedIn</a> | <a href="https://wa.me/message/5EU3Z7UHXX3GJ1" target="_b">WhatsApp</a> | <a href="mailto://me@justintorres.com" target="_b">Email</a></p>
+      <blockquote>
+        <p>“Somewhere, something incredible is waiting to be known.” <br /><em>― Carl Sagan</em></p>
+      </blockquote>
+      <p>Hi, I'm Justin! I have been tinkering with information technology for over 20 years. My expertise is full-stack WordPress development but I'm curious to learn just about everything related to internet facing applications. This website is under construction but please don't hestitate to contact me for a resume. Thank you!</p>
+      <p>Hola, soy Justin! Utilizando tecnologías informáticas por más de 20 años. Mi focus es en desarrollando para WordPress pero tengo curiosidad por todo lo que tiene que ver con el de internet. Este sitio está en construcción pero por favor no dude en ponerse en contacto conmigo para mi cv. Muchas gracias!</p>
+      <p><a href="https://www.linkedin.com/in/justintorres/" target="_b" alt="LinkedIn" title="LinkedIn">🔗 LinkedIn</a> | <a href="https://wa.me/message/5EU3Z7UHXX3GJ1" target="_b">💬 WhatsApp</a> | <a href="mailto://me@justintorres.com" target="_b">📧 Email</a></p>
+      
     </div>
   </div>
   <div class="portfolio">
@@ -71,8 +90,7 @@
     <a href="https://www.steinberglawfirm.com" target="_b"><img src="assets/img/slf.jpg" alt="Steinberg Law Firm" title="Steinberg Law Firm" /></a>
   </div>
   <div class="wrap">
-    <p>“Somewhere, something incredible is waiting to be known.” <em>― Carl Sagan</em></p>
     <p><em>justintorres.com content licensed under CC-BY-4.0</em></p>
   </div>
-</body>
-</html>	
+
+</body></html>	
